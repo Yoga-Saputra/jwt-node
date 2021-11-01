@@ -29,7 +29,7 @@ const token1 = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImtlbGFzIjoiYnd
 //   }
 //   console.log(decoded);
 // })
-// token github : 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
+// token github :
 
 // cara 2 verify
 
